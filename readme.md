@@ -22,6 +22,6 @@ Edit test_algo.txt to your liking.  The miner will only test one card at a time.
 ## Usage/Examples
 
 ```
-testminer -mode testgpu
+DynMiner -mode testgpu
 ```
 The miner will output average raw hashrate every 10 seconds as a whole number.
