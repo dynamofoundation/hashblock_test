@@ -8,7 +8,7 @@ These Windows binaries will allow users to test the performance of algorithms wi
 
 ## Installation
 
-Download testminer.exe, dyn_miner3.cl and test_algo.txt file into the same directory.
+Download and unzip the installation file into a directory.
 
 Edit test_algo.txt to your liking.  The miner will only test one card at a time.
 
